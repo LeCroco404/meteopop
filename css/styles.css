@@ -35,6 +35,12 @@ h1, h2, h3 {
   font-weight: bold;
 }
 
+#meteo {
+  color: white;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
 .btn-nav {
   background-color: #fd7301;
   padding: 10px 18px;
