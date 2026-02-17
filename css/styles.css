@@ -14,7 +14,8 @@ h1, h2, h3 {
   justify-content: space-between;
   align-items: center;
   padding: 15px 25px;
-  background-color: #3d106d;
+  background-color: transparent;
+  transition: background-color 0.4s ease;
 }
 
 .navbar .logo {
